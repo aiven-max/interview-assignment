@@ -1,5 +1,5 @@
-# interview-assignment
-Aiven Interview Assignment
+# Aiven Interview Assignment
+For Senior Solution Architect (Post-Sale)
 
 1. "Aiven Kafka Quickstart with Python.docx" - Blog Post about "Aiven Kafka Quickstart with Python".
 2. "aiven-kafka-producer.py" - Python script implementing producer that writes messages to Aiven Kafka Service.
